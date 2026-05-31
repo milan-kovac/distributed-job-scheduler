@@ -8,6 +8,7 @@ Supports cron, one-shot and delayed execution with retry logic.
 
 ## Structure
 
+```
 distributed-job-scheduler/
 ├── services/
 │   ├── api/          # REST gateway, entry point for all requests
@@ -19,3 +20,4 @@ distributed-job-scheduler/
 │   └── proto/        # shared gRPC definitions
 ├── deploy/           # Docker Compose, Kafka, Postgres, Redis
 └── docs/             # architecture and flow diagrams
+```
