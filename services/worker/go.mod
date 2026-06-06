@@ -1,3 +1,3 @@
-module github.com/yourname/djs/worker
+module github.com/milan-kovac/distributed-job-scheduler/worker
 
 go 1.22
