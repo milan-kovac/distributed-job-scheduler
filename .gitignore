@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+*.exe
+*.test
+*.out
+coverage.out
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Local environment
+.env
+.env.local
